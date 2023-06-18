@@ -1,0 +1,16 @@
+C:\Users\User Pc\Documents\Spotify Interface System\bin\Debug\net5.0\Spotify Interface System.exe
+C:\Users\User Pc\Documents\Spotify Interface System\bin\Debug\net5.0\Spotify Interface System.deps.json
+C:\Users\User Pc\Documents\Spotify Interface System\bin\Debug\net5.0\Spotify Interface System.runtimeconfig.json
+C:\Users\User Pc\Documents\Spotify Interface System\bin\Debug\net5.0\Spotify Interface System.runtimeconfig.dev.json
+C:\Users\User Pc\Documents\Spotify Interface System\bin\Debug\net5.0\Spotify Interface System.dll
+C:\Users\User Pc\Documents\Spotify Interface System\bin\Debug\net5.0\ref\Spotify Interface System.dll
+C:\Users\User Pc\Documents\Spotify Interface System\bin\Debug\net5.0\Spotify Interface System.pdb
+C:\Users\User Pc\Documents\Spotify Interface System\obj\Debug\net5.0\Spotify Interface System.csproj.AssemblyReference.cache
+C:\Users\User Pc\Documents\Spotify Interface System\obj\Debug\net5.0\Spotify Interface System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Pc\Documents\Spotify Interface System\obj\Debug\net5.0\Spotify Interface System.AssemblyInfoInputs.cache
+C:\Users\User Pc\Documents\Spotify Interface System\obj\Debug\net5.0\Spotify Interface System.AssemblyInfo.cs
+C:\Users\User Pc\Documents\Spotify Interface System\obj\Debug\net5.0\Spotify Interface System.csproj.CoreCompileInputs.cache
+C:\Users\User Pc\Documents\Spotify Interface System\obj\Debug\net5.0\Spotify Interface System.dll
+C:\Users\User Pc\Documents\Spotify Interface System\obj\Debug\net5.0\ref\Spotify Interface System.dll
+C:\Users\User Pc\Documents\Spotify Interface System\obj\Debug\net5.0\Spotify Interface System.pdb
+C:\Users\User Pc\Documents\Spotify Interface System\obj\Debug\net5.0\Spotify Interface System.genruntimeconfig.cache
