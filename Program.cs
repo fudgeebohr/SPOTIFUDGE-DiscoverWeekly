@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace TESTRUN
@@ -53,8 +53,7 @@ namespace TESTRUN
                         SetRepeatOption();
                         break;
                     case 4:
-                        Console.WriteLine();
-                        Console.WriteLine("Track added to your playlist.");
+                        AddToPlaylist();
                         break;
                     case 5:
                         exit = true;
@@ -244,6 +243,36 @@ namespace TESTRUN
                         break;
                 }
             } while (repeatOption != 3 || (repeatOption == 3 && isRepeated));
+        }
+
+        private static void AddToPlaylist()
+        {
+            Console.WriteLine();
+            Console.WriteLine("Select Playlist:");
+            Console.WriteLine("1. My Playlist 1");
+            Console.WriteLine("2. My Playlist 2");
+            Console.WriteLine("3. My Playlist 3");
+            Console.WriteLine();
+
+            Console.Write("Enter your choice: ");
+            int playlistOption = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine();
+
+            switch (playlistOption)
+            {
+                case 1:
+                    Console.WriteLine("Added to My Playlist 1.");
+                    break;
+                case 2:
+                    Console.WriteLine("Added to My Playlist 2.");
+                    break;
+                case 3:
+                    Console.WriteLine("Added to My Playlist 3.");
+                    break;
+                default:
+                    Console.WriteLine("Invalid playlist option.");
+                    break;
+            }
         }
     }
 }
